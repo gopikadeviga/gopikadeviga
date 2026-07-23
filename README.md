@@ -14,9 +14,6 @@ AWS Certified Solutions Architect – Associate (SAA-C03) and Cloud Practitioner
 ![](https://streak-stats.demolab.com/?user=gopikadeviga&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gopikadeviga&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gopikadeviga&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
