@@ -1,4 +1,5 @@
 # About Me:
+
 AWS Certified Solutions Architect – Associate (SAA-C03) and Cloud Practitioner (CLF-C02) with a software development background, now focused on hands-on AWS projects.
 <br>Every project was deployed with a real AWS account, tested under failure, and torn down responsibly — from a Multi-AZ three-tier web app with a live database failover, to a defense-in-depth secure application with keyless admin access. <br>Looking for a Cloud Support or Junior Cloud Engineer role, with Solutions Architect as the long-term goal.
 
